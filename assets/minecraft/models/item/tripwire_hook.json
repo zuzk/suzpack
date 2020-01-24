@@ -1,0 +1,111 @@
+{
+"__comment": "Designed by VinciHD with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "blocks/planks_oak",
+    "hook": "blocks/trip_wire_source",
+    "wood": "blocks/planks_oak"
+},
+"elements": [ 
+{
+    "from": [ 6.2, 3.8, 7.9 ],
+    "to": [ 9.8, 4.6, 11.5 ],
+    "faces": {
+        "down":  { "uv": [ 5, 3, 11, 9 ], "texture": "#hook" },
+        "up":    { "uv": [ 5, 3, 11, 9 ], "texture": "#hook" },
+        "north": { "uv": [ 5, 3, 11, 4 ], "texture": "#hook" },
+        "south": { "uv": [ 5, 8, 11, 9 ], "texture": "#hook" },
+        "west":  { "uv": [ 5, 8, 11, 9 ], "texture": "#hook" },
+        "east":  { "uv": [ 5, 3, 11, 4 ], "texture": "#hook" }
+    }
+},
+{
+    "from": [ 7.4, 3.8, 10.3 ],
+    "to": [ 8.6, 4.6, 10.3625 ],
+    "faces": {
+        "north": { "uv": [ 7, 8, 9, 9 ], "texture": "#hook" }
+    }
+},
+{
+    "from": [ 7.4, 3.8, 9.1 ],
+    "to": [ 8.6, 4.6, 9.1625 ],
+    "faces": {
+        "south": { "uv": [ 7, 3, 9, 4 ], "texture": "#hook" }
+    }
+},
+{
+    "from": [ 7.4, 3.8, 9.1 ],
+    "to": [ 7.4625, 4.6, 10.3 ],
+    "faces": {
+        "east":  { "uv": [ 7, 8, 9, 9 ], "texture": "#hook" }
+    }
+},
+{
+    "from": [ 8.6, 3.8, 9.1 ],
+    "to": [ 8.6625, 4.6, 10.3 ],
+    "faces": {
+        "west":  { "uv": [ 7, 3, 9, 4 ], "texture": "#hook" }
+    }
+},
+{
+    "from": [ 7.4, 5.2, 10 ],
+    "to": [ 8.8, 6.8, 14 ],
+    "faces": {
+        "down":  { "uv": [ 7, 9, 9, 14 ], "texture": "#wood" },
+        "up":    { "uv": [ 7, 2, 9, 7 ], "texture": "#wood" },
+        "north": { "uv": [ 7, 9, 9, 11 ], "texture": "#wood" },
+        "south": { "uv": [ 7, 9, 9, 11 ], "texture": "#wood" },
+        "west":  { "uv": [ 2, 9, 7, 11 ], "texture": "#wood" },
+        "east":  { "uv": [ 9, 9, 14, 11 ], "texture": "#wood" }
+    }
+},
+{
+    "from": [ 6, 1, 14 ],
+    "to": [ 10, 9, 16 ],
+    "faces": {
+        "down":  { "uv": [ 6, 14, 10, 16 ], "texture": "#wood" },
+        "up":    { "uv": [ 6, 0, 10, 2 ], "texture": "#wood" },
+        "north": { "uv": [ 6, 7, 10, 15 ], "texture": "#wood" },
+        "south": { "uv": [ 6, 7, 10, 15 ], "texture": "#wood", "cullface": "south" },
+        "west":  { "uv": [ 0, 7, 2, 15 ], "texture": "#wood" },
+        "east":  { "uv": [ 14, 7, 16, 15 ], "texture": "#wood" }
+    }
+}
+],
+"display": {
+    "thirdperson_righthand": {
+        "rotation": [ 75, 45, 0 ],
+        "translation": [ -2.27, 1.89, 0.76 ],
+        "scale": [ 0.37, 0.37, 0.37 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 75, 45, 0 ],
+        "translation": [ -2.27, 1.89, 0.76 ],
+        "scale": [ 0.37, 0.37, 0.37 ]
+    },
+    "head": {
+        "rotation": [ 0, -180, 0 ],
+        "translation": [ 0, 2.27, 14 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 3, 0 ],
+        "scale": [ 0.25, 0.25, 0.25 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, 45, 0 ],
+        "translation": [ 0, 2.08, -1.13 ],
+        "scale": [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 45, 0 ],
+        "translation": [ 0, 2.08, -1.13 ],
+        "scale": [ 0.4, 0.4, 0.4 ]
+    },
+    "gui": {
+        "rotation": [ 31, 135, 0 ],
+        "translation": [ -3, 0, 0 ],
+        "scale": [ 0.62, 0.62, 0.62 ]
+    }
+}
+}

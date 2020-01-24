@@ -1,0 +1,36 @@
+{
+"textures": {
+    "particle": "blocks/iron_bars",
+    "bars": "blocks/iron_bars"
+},
+"elements": [ 
+{
+    "from": [ 8, 0, 8 ],
+    "to": [ 8.0625, 16, 9 ],
+    "faces": {
+        "west":  { "uv": [ 8, 0, 7, 16 ], "texture": "#bars" },
+        "east":  { "uv": [ 7, 0, 8, 16 ], "texture": "#bars" }
+    }
+},
+{
+    "from": [ 7, 0, 9 ],
+    "to": [ 9, 16, 9.0625 ],
+    "faces": {
+        "north": { "uv": [ 9, 0, 7, 16 ], "texture": "#bars" },
+        "south": { "uv": [ 7, 0, 9, 16 ], "texture": "#bars" }
+    }
+},
+{
+    "from": [ 7, 0, 7 ],
+    "to": [ 9, 16, 9 ],
+    "faces": {
+        "down":  { "uv": [ 9, 9, 7, 7 ], "texture": "#bars" },
+        "up":    { "uv": [ 7, 7, 9, 9 ], "texture": "#bars" },
+        "north": { "uv": [ 7, 0, 9, 16 ], "texture": "#bars" },
+        "south": { "uv": [ 7, 0, 9, 16 ], "texture": "#bars" },
+        "west":  { "uv": [ 7, 0, 9, 16 ], "texture": "#bars" },
+        "east":  { "uv": [ 7, 0, 9, 16 ], "texture": "#bars" }
+    }
+}
+]
+}
