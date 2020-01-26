@@ -4,8 +4,9 @@ Suzpack light 2.5 is a minecraft resourcepack. It adds many beautiful changes an
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
 Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way.
 
+
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-  Here's a list of some (a small percentage) of the features that suzpack adds to the game.
+ Here's a list of some (a small percentage) of the features that suzpack adds to the game.
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 -Low fire and shields for better visibility.
