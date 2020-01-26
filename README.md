@@ -6,7 +6,7 @@ Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 v
 
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀
-⠀⠀⠀Here's a list of some (a small percentage) of the features that suzpack adds to the game.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Here's a list of some (a small percentage) of the features that suzpack adds to the game.
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 -Low fire and shields for better visibility.
