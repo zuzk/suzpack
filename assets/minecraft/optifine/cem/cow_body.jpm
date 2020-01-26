@@ -1,0 +1,37 @@
+{
+  "comment": "Designed by VinciHD with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.8.445 Beta",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [6.0,8.0,-7.0],
+      "boxes": [
+        {
+          "coordinates": [-12.0,-18.0,0.0,12.0,18.0,10.0],
+          "uvDown": [40,4,52,14],
+          "uvUp": [40,14,28,4],
+          "uvNorth": [28,13,40,32],
+          "uvSouth": [50,14,62,32],
+          "uvWest": [40,14,50,32],
+          "uvEast": [18,14,28,32]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box2",
+      "translate": [2.0,8.0,-8.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-6.0,0.0,4.0,6.0,1.0],
+          "uvDown": [57,0,61,1],
+          "uvUp": [53,0,57,1],
+          "uvNorth": [53,1,57,7],
+          "uvSouth": [58,1,62,7],
+          "uvWest": [57,1,58,7],
+          "uvEast": [52,1,53,7]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "comment": "Designed by VinciHD with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.8.445 Beta",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [4.0,4.0,-8.0],
+      "boxes": [
+        {
+          "coordinates": [-8.0,-8.0,0.0,8.0,8.0,8.0],
+          "uvDown": [16,0,24,8],
+          "uvUp": [16,8,8,0],
+          "uvNorth": [8,8,16,16],
+          "uvSouth": [24,8,32,16],
+          "uvWest": [16,8,24,16],
+          "uvEast": [0,8,8,16]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box2",
+      "translate": [2.0,3.0,-9.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-3.0,0.0,4.0,3.0,1.0],
+          "uvDown": [21,16,25,17],
+          "uvUp": [21,17,17,16],
+          "uvNorth": [17,17,21,20],
+          "uvSouth": [17,17,21,20],
+          "uvWest": [21,17,22,20],
+          "uvEast": [16,17,17,20]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box3",
+      "translate": [4.75,2.0,-6.0],
+      "boxes": [
+        {
+          "coordinates": [-1.0,-4.0,0.0,1.0,4.0,3.0],
+          "uvDown": [17,11,18,14],
+          "uvUp": [18,13,17,10],
+          "uvNorth": [16,10,17,14],
+          "uvSouth": [20,10,21,14],
+          "uvWest": [17,10,20,14],
+          "uvEast": [4,10,7,14]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box3",
+      "translate": [-3.75,2.0,-6.0],
+      "boxes": [
+        {
+          "coordinates": [-1.0,-4.0,0.0,1.0,4.0,3.0],
+          "uvDown": [17,11,18,14],
+          "uvUp": [18,13,17,10],
+          "uvNorth": [16,10,17,14],
+          "uvSouth": [20,10,21,14],
+          "uvWest": [17,10,20,14],
+          "uvEast": [4,10,7,14]
+        }
+      ]
+    }
+  ]
+}

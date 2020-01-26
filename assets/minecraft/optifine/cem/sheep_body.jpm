@@ -1,0 +1,22 @@
+{
+  "comment": "Designed by VinciHD with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.8.445 Beta",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Part",
+      "translate": [4.0,6.0,-7.0],
+      "boxes": [
+        {
+          "coordinates": [-8.0,-16.0,0.0,8.0,16.0,6.0],
+          "uvDown": [42,8,50,14],
+          "uvUp": [42,14,34,8],
+          "uvNorth": [34,14,42,30],
+          "uvSouth": [48,14,56,30],
+          "uvWest": [42,14,48,30],
+          "uvEast": [28,14,34,30]
+        }
+      ]
+    }
+  ]
+}
