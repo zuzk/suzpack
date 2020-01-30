@@ -4,9 +4,9 @@ Suzpack light 2.6 is a minecraft resourcepack. It adds many beautiful changes an
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
 Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way.
 
-██████████████████████████████████████████████████████████████████████████████████████████████
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰
-██████████████████████████████████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰
+████████████████████████████████████████████████████████████████████████
 
 ## 1/29/2020
 
@@ -18,15 +18,18 @@ Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 v
 - Custom lightmap
 - Better enchantment glint
 - Tools look more broken as their durability goes down
-- Better mod and player sounds
-- New colormaps
 - Changed some sounds to be less annoying/loud
+- New colormaps
 - Made rain more peaceful
-- Lowered sheilds and some items in off hand so they're less obtrusive
+- Lowered sheilds and some items in offhand so they're less obtrusive
 - New 3d block models for ladders and rails
 - Smaller crosshair
-- Removed "java edition" from title
+- Removed "java edition" from title screen
 - Rotated iron nugget
+- Fixed a few broken block models
+- Changed the enderpearl texture
+- Added new ladder texture
+- Changed all rail textures
 - Did a bunch more little stuff that I'm not gonna bother typing up lol
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀
