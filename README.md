@@ -1,4 +1,4 @@
-⠀⠀⠀⠀⠀⠀⠀⠀# **The official repository for suzpack 1.12.2**
+# ⠀⠀⠀⠀⠀⠀⠀⠀**The official repository for suzpack 1.12.2**
 
 Suzpack light 2.6 is a minecraft resourcepack. It adds many beautiful changes and improvements to the game.
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
