@@ -14,16 +14,16 @@ margin-top: 10px;}
 .container
 {
 background-image: url(/assets/media/visual/element/blur.png);
-width: 360px;
-height: 797px;
-margin-top: 15px;
+width: 300px;
+height: 600px;
+margin-top: 20px;
 margin-right: auto;
 margin-left: auto;
 text-align: center;
 padding-left: 8px;
 padding-right: 8px;
-padding-top: 5px;
-padding-bottom: 15px;
+padding-top: 10px;
+padding-bottom: 50px;
 font-family: "Segoe UI";
 color: #000000;
 font-weight: 400;
@@ -33,7 +33,7 @@ font-weight: 400;
 {
 background-image: url(/assets/media/visual/background/spin.gif);
 background-repeat: no-repeat;
-background-attachment: fixed; 
+background-attachment: fixed;
 background-size: 100% 100%;
 font-family: "Segoe UI";
 color: #000000;
@@ -45,18 +45,35 @@ align-self: center;
 text-align: center;
 }
 
-.body2
-{
-background-image: url(/assets/media/visual/background/succ.gif);
-background-repeat: repeat;
-background-attachment: fixed; 
-background-size: auto;
-font-family: "Segoe UI";
-color: #000000;
-font-weight: 400;
-margin-right: auto;
-margin-left: auto;
+
+.download1 {
+	background:linear-gradient(to bottom, #b18610 5%, #36a89f 100%);
+	background-color:#116975;
+	border-radius:1px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	padding:10px 30px;
+	text-decoration:none;
+        font-family: 'Segoe UI';
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 12px;
 }
+
+
+.download1:hover {
+	background:linear-gradient(to bottom, #36a89f 5%, #b18610 100%);
+	background-color:#116975;
+}
+
+.download1:active {
+	position:relative;
+	top:1px;
+}
+
 
 
 .stop1 {
@@ -95,7 +112,7 @@ margin-left: auto;
 	padding:10px 30px;
 	text-decoration:none;
         font-family: 'Segoe UI';
-	font-size: 16px; 
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
