@@ -8,7 +8,7 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 **Suzpack is currently under _constant_ development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way**
 
 ██████████████████████████████████████████████████████████████  
-    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ██████████████████████████████████████████████████████████████
 
 ## **Suzpack 2.6**
