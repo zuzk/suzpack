@@ -1,15 +1,15 @@
-# ⠀⠀⠀⠀⠀⠀**The official repository for suzpack 1.12.2**
+# **The official repository for suzpack 1.12.2**
 
 Suzpack light 2.6 is a minecraft resourcepack. It adds many beautiful changes and improvements to the game.
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
 Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way.
 
-███████████████████████████████████████████████████████████████████████████⠀⠀
-⠀〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
-███████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████
+〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+██████████████████████████████████████████████████████████████
 
-**1/29/2020**
 ## **Suzpack 2.6**
+**1/29/2020**
 
 - Complete redo of the sky
 - Mild GUI Improvements
@@ -31,9 +31,9 @@ Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 v
 - Changed all rail textures
 - Did a bunch more little stuff that I'm not gonna bother typing up lol
 
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀**Here's a list of some (a small percentage) of the features that suzpack adds to the game**
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀
+**Here's a list of some (a small percentage) of the features that suzpack adds to the game**
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 -Low fire and shields for better visibility.
 
