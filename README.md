@@ -1,12 +1,36 @@
-The official repository for suzpack 1.12.2.
+# **The official repository for suzpack 1.12.2**
 
 Suzpack light 2.6 is a minecraft resourcepack. It adds many beautiful changes and improvements to the game.
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
 Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way.
 
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+## 1/29/2020
+
+**Suzpack 2.6**
+
+- Complete redo of the sky
+- Mild GUI Improvements
+- Connected glass fix for new optifine versions
+- Custom lightmap
+- Better enchantment glint
+- Tools look more broken as their durability goes down
+- Better mod and player sounds
+- New colormaps
+- Changed some sounds to be less annoying/loud
+- Made rain more peaceful
+- Lowered sheilds and some items in off hand so they're less obtrusive
+- New 3d block models for ladders and rails
+- Smaller crosshair
+- Removed "java edition" from title
+- Rotated iron nugget
+- Did a bunch more little stuff that I'm not gonna bother typing up lol
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀Here's a list of some (a small percentage) of the features that suzpack adds to the game.
+⠀⠀⠀⠀⠀⠀⠀⠀**Here's a list of some (a small percentage) of the features that suzpack adds to the game.**
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 -Low fire and shields for better visibility.
@@ -41,5 +65,4 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 -Animated crops and grass.
 
 -Quieter sounds. Nether portals, villagers, dispensers, and pistons are all less annoying and quieter.
-
 -And much much more that I don't want to type cause it's 2 am and I just got some really bad news lol.
