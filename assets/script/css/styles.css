@@ -48,8 +48,8 @@ text-align: center;
 
 <style type=”text/css”>
 video#Video1 {
- width: 240px;
- height: 350px;
+ width: 480px;
+ height: 700px;
  alignment: center;
  text-align: center;
  margin-right: auto;
@@ -60,7 +60,7 @@ video#Video1 {
  padding-right: auto;
  padding-top: auto;
  padding-bottom: auto;
- background-size: 100% 100%;
+ background-size: 200% 200%;
 }
 </style>
 
