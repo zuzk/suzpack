@@ -1,4 +1,4 @@
-# **The official repo of Suzpack 1.12.2**
+# **The official Suzpack Light 1.12.2 repository**
 `(Yes the spelling is intentional)`
 
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
