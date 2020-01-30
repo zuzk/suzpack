@@ -45,6 +45,23 @@ align-self: center;
 text-align: center;
 }
 
+
+<style type=”text/css”>
+video#Video1 {
+ top: 0px;
+ left: 0px;
+ min-width: 100%;
+ min-height: 100%;
+ width: 240px;
+ height: 350px;
+ align-self: center;
+ alignment: center;
+ text-align: center;
+}
+</style>
+
+
+
 .video1 {
 	margin-right: auto;
 	margin-left: auto;
