@@ -8,8 +8,8 @@ Suzpack is currently under constant development and 1.13.2, 1.14.4, and 1.15.2 v
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰
 █████████████████████████████████████████████████████████████████████████
 
-## **1/29/2020**
-## **Suzpack 2.6**
+##**1/29/2020**
+##**Suzpack 2.6**
 
 - Complete redo of the sky
 - Mild GUI Improvements
