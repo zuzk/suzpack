@@ -35,7 +35,7 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 - Did a bunch more little stuff that I'm not gonna bother typing up lol
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁                                                           
-    **Here's a list of some (a small percentage) of the features that suzpack adds to the game**
+     **Here's a list of some (a small percentage) of the features that suzpack adds to the game**
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 -Low fire and shields for better visibility.
