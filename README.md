@@ -1,12 +1,13 @@
 # **The official Suzpack Light 1.12.2 repository**
 `(Yes the spelling is intentional)`
 
-## If you wanna skip all the fluff, just download the master branch as a zip and put in in your resourcepack folder
-## Or go to [suzpack.tk](https://suzpack.tk) and click download
-
-                                                                                                                                                                                    
-                                                                                                                                                                                    
-                                                                                                                                                                                    
+## If you wanna skip all the fluff, just download the master branch as a zip and put it in your resourcepack folder
+## Or go to [suzpack.tk](https://suzpack.tk) and click download                                                                                                                                                                                                                                             
+                                                                           
+                                                                          
+                                                                                                                                                     
+                                                                                                                                                                                                           
+                                                                                                                                                                              
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
 It adds many beautiful changes and improvements to the game.
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
