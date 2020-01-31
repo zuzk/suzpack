@@ -14,32 +14,6 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 
 **Suzpack is currently under _constant_ development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way**
 
-██████████████████████████████████████████████████████████████  
-    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
-██████████████████████████████████████████████████████████████
-
-## *Suzpack 2.6*
-**1/29/2020**
-
-- Complete redo of the sky
-- Mild GUI Improvements
-- Connected glass fix for new optifine versions
-- Custom lightmap
-- Better enchantment glint
-- Tools look more broken as their durability goes down
-- Changed some sounds to be less annoying/loud
-- New colormaps
-- Made rain more peaceful
-- Lowered shield and some items in offhand so they're less obtrusive
-- New 3d block models for ladders and rails
-- Smaller crosshair
-- Removed "java edition" from title screen
-- Rotated iron nugget
-- Fixed a few broken block models
-- Changed the enderpearl texture
-- Added new ladder texture
-- Changed all rail textures
-- Did a bunch more little stuff that I'm not gonna bother typing up lol
 
 ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀**Here's a list of some (a small percentage) of the features that suzpack adds to the game**
@@ -79,3 +53,33 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 -Quieter sounds. Nether portals, villagers, dispensers, and pistons are all less annoying and quieter.
 
 -Much much more that I don't want to type cause it's 2 am and I just got some really bad news lol.
+
+
+
+
+██████████████████████████████████████████████████████████████  
+    〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+██████████████████████████████████████████████████████████████
+
+## *Suzpack 2.6*
+**1/29/2020**
+
+- Complete redo of the sky
+- Mild GUI Improvements
+- Connected glass fix for new optifine versions
+- Custom lightmap
+- Better enchantment glint
+- Tools look more broken as their durability goes down
+- Changed some sounds to be less annoying/loud
+- New colormaps
+- Made rain more peaceful
+- Lowered shield and some items in offhand so they're less obtrusive
+- New 3d block models for ladders and rails
+- Smaller crosshair
+- Removed "java edition" from title screen
+- Rotated iron nugget
+- Fixed a few broken block models
+- Changed the enderpearl texture
+- Added new ladder texture
+- Changed all rail textures
+- Did a bunch more little stuff that I'm not gonna bother typing up lol
