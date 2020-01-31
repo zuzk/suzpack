@@ -1,7 +1,7 @@
 # **The official Suzpack Light 1.12.2 repository**
 `(Yes the spelling is intentional)`
 
-## If you wanna skip all the fluff, just download the master branch as a zip and put it in your resourcepack folder
+## If you wanna skip all the fluff, just [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.6/suzpack2.6.zip)
 ## Or go to [suzpack.tk](https://suzpack.tk) and click download                                                                                                                                                                                                                                             
                                                                            
                                                                           
