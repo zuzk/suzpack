@@ -2,7 +2,7 @@
 `(Yes the spelling is intentional)`
 
 ## If you wanna skip all the fluff, just download the master branch as a zip and put in in your resourcepack folder
-## Or go to [Suzpack.tk](https://suzpack.tk) and click download
+## Or go to [suzpack.tk](https://suzpack.tk) and click download
 
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
 It adds many beautiful changes and improvements to the game.
@@ -14,7 +14,7 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
     〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ██████████████████████████████████████████████████████████████
 
-## **Suzpack 2.6**
+## *Suzpack 2.6*
 **1/29/2020**
 
 - Complete redo of the sky
