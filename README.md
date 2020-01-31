@@ -30,7 +30,7 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 - Changed some sounds to be less annoying/loud
 - New colormaps
 - Made rain more peaceful
-- Lowered sheilds and some items in offhand so they're less obtrusive
+- Lowered shield and some items in offhand so they're less obtrusive
 - New 3d block models for ladders and rails
 - Smaller crosshair
 - Removed "java edition" from title screen
