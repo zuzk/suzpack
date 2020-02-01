@@ -15,7 +15,7 @@ margin-top: 10px;}
 {
 background-image: url(/assets/media/visual/element/blur.png);
 width: 295px;
-height: 460px;
+height: 480px;
 margin-top: 40px;
 margin-right: auto;
 margin-left: auto;
@@ -78,6 +78,25 @@ text-align: center;
 	line-height: 12px;
 	margin-bottom: 0px;
 }
+
+.download2 {
+	background:linear-gradient(to bottom, #c7aa59 5%, #c7aa59 100%);
+	background-color:#c7aa59;
+	border-radius:1px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	padding:10px 10px;
+	text-decoration:none;
+        font-family: 'Segoe UI';
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 12px;
+	margin-bottom: 0px;
+}
+
 
 
 .download1:hover {
