@@ -2,8 +2,7 @@
 `(Yes the spelling is intentional)`
 
 ## If you wanna skip all the fluff, just [click here to download the latest installer release](https://github.com/zuzk/suzpack/releases/download/I2.6/suzpack.exe)
-## Or [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.6/suzpack2.6.zip)
-## Or you can go to [suzpack.tk](https://suzpack.tk) and click download                                                                                                                                                                                                                                                                                                                                                                                 
+## Or [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.6/suzpack2.6.zip)                                                                                                                                                                                                                                                                                                                                                                                 
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
 It adds many beautiful changes and improvements to the game.
 From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
