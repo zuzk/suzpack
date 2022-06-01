@@ -20,7 +20,7 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 
 -Beautiful water with custom colors and transparency that dynamically changes based on the biome you're in.
 
--Opaque and un-obtrusive "underwater texture" so visibility isn't so poor as in normally the case in minecraft.
+-Opaque and un-obtrusive "underwater texture" so visibility isn't so poor as is normally the case in minecraft.
 
 -"Normal" textures for blocks with added depth and detail. Each block texture is 64x64 (with a few exceptions) 
 and all those extra pixels are put to good use. "depth" is added to every block with shading and small divets that
@@ -37,7 +37,7 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 
 -Biome colormaps that change the environment colors subtly leading to a more immersive playing experience.
 
--Mod blinking animations and smaller eyes. This really breathes life into your game and the creatures living in it.
+-Mob blinking animations and smaller eyes. This really breathes life into your game and the creatures living in it.
 
 -Removed pumpkin blur and "java edition" text.
 
