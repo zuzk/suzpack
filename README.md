@@ -1,7 +1,7 @@
 # **The official Suzpack Light 1.12.2 repository**
 `(Yes the spelling is intentional)`
 
-## If you wanna skip all the fluff just [click here to download the latest installer release](https://github.com/zuzk/suzpack/releases/download/V2.7/suzpack.exe)
+## If you wanna skip all the fluff just [click here to download the latest installer release](https://github.com/zuzk/suzpack/releases/download/I2.7/suzpack.exe)
 ## Or [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.7/suzpack2.7.zip)                                                                                                                                                                                                                                                                                                                                                                                 
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
 It adds many beautiful changes and improvements to the game.
