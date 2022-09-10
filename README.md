@@ -1,16 +1,16 @@
 # **The official Suzpack Light 1.12.2 repository**
 `(Yes the spelling is intentional)`
 
-## If you wanna skip all the fluff, just [click here to download the latest installer release](https://github.com/zuzk/suzpack/releases/download/I2.6/suzpack.exe)
-## Or [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.6/suzpack2.6.zip)                                                                                                                                                                                                                                                                                                                                                                                 
+## If you wanna skip all the fluff just [click here to download the latest installer release](https://github.com/zuzk/suzpack/releases/download/V2.7/suzpack.exe)
+## Or [click here to download the newest release as a zip](https://github.com/zuzk/suzpack/releases/download/V2.7/suzpack2.7.zip)                                                                                                                                                                                                                                                                                                                                                                                 
 To put it simply, ***Suzpack Light*** is a minecraft resourcepack. 
 It adds many beautiful changes and improvements to the game.
-From gorgeous custom skies to perfect randomly rotated and tileable grass textures, this pack has it all.
+From gorgeous custom skies, to perfect randomly rotated and tileable grass textures; this pack has it all.
 
-**Suzpack is currently under _constant_ development and 1.13.2, 1.14.4, and 1.15.2 versions are on their way**
+**Suzpack is no longer under constant development and 1.13.2, 1.14.4, and 1.15.2 versions will not be released**
 
 
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀**Here's a list of some (a small percentage) of the features that suzpack adds to the game**
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
@@ -20,10 +20,10 @@ From gorgeous custom skies to perfect randomly rotated and tileable grass textur
 
 -Beautiful water with custom colors and transparency that dynamically changes based on the biome you're in.
 
--Opaque and un-obtrusive "underwater texture" so visibility isn't so poor as is normally the case in minecraft.
+-Opaque and un-obtrusive "underwater texture" so visibility isn't poor, as is normally the case in minecraft.
 
 -"Normal" textures for blocks with added depth and detail. Each block texture is 64x64 (with a few exceptions) 
-and all those extra pixels are put to good use. "depth" is added to every block with shading and small divets that
+and all those extra pixels are put to good use. "depth" is added to every block with shading and small divots that
 make minecraft come alive. The same textures you love now with a wonderful twist.
 
 -Glass is now super clear, no more ugly windows. More vivid colors and better than ever visibility. 
@@ -37,7 +37,7 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 
 -Biome colormaps that change the environment colors subtly leading to a more immersive playing experience.
 
--Mob blinking animations and smaller eyes. This really breathes life into your game and the creatures living in it.
+-Mob blinking animations and smaller eyes. This breathes life into your game and the creatures living in it.
 
 -Removed pumpkin blur and "java edition" text.
 
@@ -47,7 +47,17 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 
 -Quieter sounds. Nether portals, villagers, dispensers, and pistons are all less annoying and quieter.
 
--Much much more that I don't want to type cause it's 2 am and I just got some really bad news lol.
+-Animated ores and lights
+
+-Old damage sound
+
+-Smaller cursor
+
+-Smooth fonts in vanilla and even better ones in optifine
+
+-Dyes that don't just look like lose powder
+
+-Many more that I don't want to type cause it's 2 am.
 
 
 
@@ -55,6 +65,26 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 ██████████████████████████████████████████████████████████████  
     〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ██████████████████████████████████████████████████████████████
+## *Suzpack 2.7*
+**9/09/2022**
+
+- Transparent shields
+- Slimes changed to blue
+- Added boat textures for all variants
+- Unified gem & coal blocks (finally)
+- Rainbow experience bar added
+- Modified world border
+- Health is now easier to see when affected with wither
+- Colored connectivity indicators
+- Hopper directional indicators
+- Crafting table less goofy
+- 3D models added for hoppers
+- 3D models added for the cauldron
+- 3D models added for vines
+- 3D models added for boats
+- 3D models added for repeater
+- 3D models added for comparator
+
 
 ## *Suzpack 2.6*
 **1/29/2020**
@@ -71,7 +101,7 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 - Lowered shield and some items in offhand so they're less obtrusive
 - New 3d block models for ladders and rails
 - Smaller crosshair
-- Removed "java edition" from title screen
+- Removed "java edition" from the title screen
 - Rotated iron nugget
 - Fixed a few broken block models
 - Changed the enderpearl texture
