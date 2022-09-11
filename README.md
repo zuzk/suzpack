@@ -67,6 +67,11 @@ Connected textures ensure all your builds are as sleek as the skills used to cre
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰 Update Log 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ██████████████████████████████████████████████████████████████
 ## *Suzpack 2.7*
+**9/11/2022**
+
+- Fixed broken minecart model and texture
+
+## *Suzpack 2.7*
 **9/09/2022**
 
 - Transparent shields
